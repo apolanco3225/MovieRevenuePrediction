@@ -1,3 +1,10 @@
+# Project files
+profound-nuance-396906-b333b252d545.json
+DVC_TUTORIAL.md
+*.json
+*.csv
+*.pkl
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
